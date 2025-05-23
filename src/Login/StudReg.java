@@ -9,6 +9,8 @@ public class StudReg {
 		System.out.println("Hii");
 		
 		int a=10;
+		int ab=10;
+
 
 	}
 
