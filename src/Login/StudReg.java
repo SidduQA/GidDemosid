@@ -15,6 +15,8 @@ public class StudReg {
 		System.out.println("Hii");
 
 		int i=10;
+		int ix=10;
+
 		
 
 
