@@ -8,10 +8,8 @@ public class StudReg {
 		System.out.println("Hello");
 		System.out.println("Hii");
 		
-<<<<<<< HEAD
 		int a=10;
 		int ab=10;
-=======
 		System.out.println("Hii");
 
 		System.out.println("Hii");
