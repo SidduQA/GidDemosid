@@ -17,7 +17,7 @@ public class StudReg {
 		System.out.println("Hii");
 
 
->>>>>>> a11e9b2dceb1199f82f3cea02106a619e51c58a0
+//>>>>>>> a11e9b2dceb1199f82f3cea02106a619e51c58a0
 
 
 	}
