@@ -14,6 +14,8 @@ public class StudReg {
 		System.out.println("Hii");
 		System.out.println("Hii");
 
+		int i=10;
+		
 
 
 
